@@ -1,0 +1,8 @@
+{
+    "dependencies": {
+        "wasm-server": "0.0.4",
+        "webpack": "5.70.0",
+        "wepack-cli": "^0.0.1-security"
+
+    }
+}
